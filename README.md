@@ -56,8 +56,8 @@ in NYC, demand for room types according to their prices.
 **Styling:** Applied custom styling for the Streamlit app, including a coloured background for the title.
 
 # Instructions to set up and run the code:
-1. Setup:
-• Install required packages: ‘streamlit’, ‘pandas’, ‘xgboost’, ‘matplotlib’, ‘seaborn’, ‘scikitlearn’, ‘plotly’.  
+1. Setup:  
+• Install required packages: ‘streamlit’, ‘pandas’, ‘xgboost’, ‘matplotlib’, ‘seaborn’, ‘scikit-learn’, ‘plotly’.  
 • Also, confirm if you have the ‘ABC_NYC_2019.sv’ dataset. In case you want to use a new data set, you just have to change the dataset name in line 18 of the code in custom.py file (you can open the file from vs code to edit, if required).   
 • Make sure that you have all the necessary columns.  
 
@@ -68,4 +68,6 @@ in NYC, demand for room types according to their prices.
 
 3. Navigation:  
 • Use the side bar to navigate between different pages (Home, Predict Price, Neighbourhood Prices, and Visualizations).  
-• You can also follow the on-screen instructions for predicting prices and exploring neighbourhood prices.  
+• You can also follow the on-screen instructions for predicting prices and exploring neighbourhood prices.
+
+# User Interface:  
