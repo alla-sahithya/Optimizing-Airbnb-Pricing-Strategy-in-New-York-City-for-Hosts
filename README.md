@@ -15,5 +15,16 @@ Optimizing Airbnb pricing in NYC is significant for several reasons –
 • Accurate pricing helps hosts remain competitive in the market, attracting more bookings.  
 
 # Data Analysis:  
-1.1 Distribution of room types across NYC:  
-![image](https://github.com/user-attachments/assets/fea1c533-fa0d-4291-90d6-c4e5f1e2e754)
+# 1.1 Distribution of room types across NYC:  
+![image](https://github.com/user-attachments/assets/fea1c533-fa0d-4291-90d6-c4e5f1e2e754)  
+
+# 1.2 Analyzing Room type by Neighborhood groups:  
+![image](https://github.com/user-attachments/assets/39752481-5c92-49e0-a163-a7d029f2e655)  
+
+# 1.3 Mean Price by Neighborhood groups:  
+![image](https://github.com/user-attachments/assets/25265c6c-93f4-4fd6-afae-b8a54045a2b4)  
+
+
+
+
+
