@@ -25,10 +25,24 @@ Optimizing Airbnb pricing in NYC is significant for several reasons –
 ![image](https://github.com/user-attachments/assets/25265c6c-93f4-4fd6-afae-b8a54045a2b4)  
 
 # 1.4 Minimum Nights vs Price:  
-![image](https://github.com/user-attachments/assets/7b1e1abc-72f1-4a9b-880f-bf9ce55efb9d)
+![image](https://github.com/user-attachments/assets/7b1e1abc-72f1-4a9b-880f-bf9ce55efb9d)  
+
+# Machine Learning Algorithms used:  
+1. Linear Regression
+2. Naive Bayes Classifier
+3. Decision Tree Regressor
+4. XGBoost Regressor
+5. Support Vector Regressor
+6. K-Nearest Neighbor Regressor
+7. Ensemble Random Forest
+8. Neural Networks
+   
+We tried different models and it is evident that XGBoost outperformed others for this data.  
+
+![image](https://github.com/user-attachments/assets/fadeab6c-74f9-4de2-8281-af99921f23b1)
 
 
-
-
+While XGBoost demonstrates good performance, the potential for even better results exists with a more robust dataset. Given that regression tasks performance evaluation cannot be relied on accuracy metric, our focus primarily lied on improving the Root Mean Squared Error (RMSE) and R^2 values. This improvement can be achieved by augmenting the dataset significantly and incorporating business insights to better understand the factors impacting prices. For better performance, we have also tried to preprocess data in various ways to see if it will perform better, changed the features that we considered for training but the results did not seem to change much and got even worse in few cases. The correlation matrix for the current dataset reveals weak correlations between the features and the target variable (as illustrated below), indicating potential issues with the existing dataset.  
+![image](https://github.com/user-attachments/assets/10172f15-2e2f-4348-b01d-37c7c4dc4a20)
 
 
