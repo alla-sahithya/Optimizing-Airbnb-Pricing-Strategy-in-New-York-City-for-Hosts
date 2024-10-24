@@ -37,7 +37,7 @@ Optimizing Airbnb pricing in NYC is significant for several reasons –
 7. Ensemble Random Forest
 8. Neural Networks
    
-We tried different models and it is evident that XGBoost outperformed others for this data.  
+We experimented with various machine learning algorithms and we chose XGBoost model for further analysis of our project. From the below summary of metrics, it is evident that XGBoost outperformed others for this data.  
 
 ![image](https://github.com/user-attachments/assets/fadeab6c-74f9-4de2-8281-af99921f23b1)
 
@@ -45,4 +45,27 @@ We tried different models and it is evident that XGBoost outperformed others for
 While XGBoost demonstrates good performance, the potential for even better results exists with a more robust dataset. Given that regression tasks performance evaluation cannot be relied on accuracy metric, our focus primarily lied on improving the Root Mean Squared Error (RMSE) and R^2 values. This improvement can be achieved by augmenting the dataset significantly and incorporating business insights to better understand the factors impacting prices. For better performance, we have also tried to preprocess data in various ways to see if it will perform better, changed the features that we considered for training but the results did not seem to change much and got even worse in few cases. The correlation matrix for the current dataset reveals weak correlations between the features and the target variable (as illustrated below), indicating potential issues with the existing dataset.  
 ![image](https://github.com/user-attachments/assets/10172f15-2e2f-4348-b01d-37c7c4dc4a20)
 
+# Deployment:  
+We have created a Streamlit web application with different pages for home, predicting prices, neighbourhood prices, and visualizations. We also used session state to store input features and predicted prices.  
+# Pages in Streamlit App:
+- **Home Page:** Displays a welcome message.
+- **Predict Price Page:** Allows users to input features and predicts the Airbnb price. Provides feedback and insights.
+- **Neighbourhood Prices Page:** Displays top 5 listings based on user-selected neighbourhood and room type. Allows exploration of prices across different neighborhood groups and room types.
+- **Visualizations Page:** Presents visualizations like price distribution, top hosts, and average prices of different room types based on user-selected neighbourhood groups, distribution of room types 
+in NYC, demand for room types according to their prices.
+**Styling:** Applied custom styling for the Streamlit app, including a coloured background for the title.
 
+# Instructions to set up and run the code:
+1. Setup:
+• Install required packages: ‘streamlit’, ‘pandas’, ‘xgboost’, ‘matplotlib’, ‘seaborn’, ‘scikitlearn’, ‘plotly’.  
+• Also, confirm if you have the ‘ABC_NYC_2019.sv’ dataset. In case you want to use a new data set, you just have to change the dataset name in line 18 of the code in custom.py file (you can open the file from vs code to edit, if required).   
+• Make sure that you have all the necessary columns.  
+
+2. Running the App:  
+• Run the Streamlit app using the command: ‘streamlit run custom.py’   
+• You can run the above command in the terminal by opening the terminal from the location where you have your custom.py  
+• Then automatically a local host page will be opened. In case it does not open by itself, you can click or open the Local host URL that will be shown on your terminal.
+
+3. Navigation:  
+• Use the side bar to navigate between different pages (Home, Predict Price, Neighbourhood Prices, and Visualizations).  
+• You can also follow the on-screen instructions for predicting prices and exploring neighbourhood prices.  
