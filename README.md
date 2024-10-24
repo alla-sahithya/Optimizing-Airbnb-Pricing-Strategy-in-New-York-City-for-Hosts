@@ -114,6 +114,7 @@ in NYC, demand for room types according to their prices.
 6. [https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article](https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article)
 7. [https://www.datacamp.com/tutorial/xgboost-in-python](https://www.datacamp.com/tutorial/xgboost-in-python)
 8. [https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regressionmodel-418ca481755](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regressionmodel-418ca481755)
+9. [https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 
 
 
