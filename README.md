@@ -24,6 +24,10 @@ Optimizing Airbnb pricing in NYC is significant for several reasons –
 # 1.3 Mean Price by Neighborhood groups:  
 ![image](https://github.com/user-attachments/assets/25265c6c-93f4-4fd6-afae-b8a54045a2b4)  
 
+# 1.4 Minimum Nights vs Price:  
+![image](https://github.com/user-attachments/assets/7b1e1abc-72f1-4a9b-880f-bf9ce55efb9d)
+
+
 
 
 
