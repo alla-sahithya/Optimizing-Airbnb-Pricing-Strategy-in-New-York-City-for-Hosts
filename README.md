@@ -97,7 +97,18 @@ in NYC, demand for room types according to their prices.
 
 ![image](https://github.com/user-attachments/assets/796f621b-4277-499a-8a82-6b7bcb5a1775)  
 
-![image](https://github.com/user-attachments/assets/90b356f3-5565-4352-b686-2fa6189e50f8)
+![image](https://github.com/user-attachments/assets/90b356f3-5565-4352-b686-2fa6189e50f8)  
+
+# Future Scope:  
+• The analysis highlights the need for a more robust and accurate dataset to achieve better price predictions. It is also recognized that the current dataset reveals weak correlations between features and the target variable, indicating issues with the existing data. Hence, collecting additional data points related to Airbnb listings which also include information about property features, amenities, nearby local attractions, and guest reviews will help us get a more robust and reliable product. This will also help the hosts to understand user preferences.  
+• To further enhance model performance, future work should also focus on incorporating business insights, and exploring more advanced feature engineering techniques.  
+• Also, we can implement algorithms that adapt to the real-time market fluctuations, seasonal trends, and special events which will empower hosts to optimize their pricing strategies. Adjusting prices based on demand and supply dynamics will help the hosts to maximize their revenue potential while staying competitive in the market.  
+• Future scope can also be leveraging geospatial data which can provide valuable insights into the influence of location on Airbnb prices.  
+
+References:  
+1. [https://docs.streamlit.io/](https://docs.streamlit.io/)
+2. [https://matplotlib.org/stable/gallery/index.html](https://matplotlib.org/stable/gallery/index.html)
+3. [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 
 
 
