@@ -80,6 +80,25 @@ in NYC, demand for room types according to their prices.
 
 ![image](https://github.com/user-attachments/assets/cfaee543-a7d5-4f08-9ef7-ee61361259bf)  
 
-![image](https://github.com/user-attachments/assets/490b1190-1eb4-406c-b3dc-f124cba395f1)
+![image](https://github.com/user-attachments/assets/490b1190-1eb4-406c-b3dc-f124cba395f1)  
+
+# Neighbourhood Prices Page:  
+
+![image](https://github.com/user-attachments/assets/eacb1e64-1322-420d-8e77-0b6206274a38)  
+
+![image](https://github.com/user-attachments/assets/b23e0437-1581-4353-a9e5-c03cd2eb5b87)
+
+
+# Visualizations Page:  
+
+![image](https://github.com/user-attachments/assets/edeb5c25-5363-4616-a1e7-fb12dc69cd54)  
+
+![image](https://github.com/user-attachments/assets/72d81f85-9273-428b-b140-37097045526b)  
+
+![image](https://github.com/user-attachments/assets/796f621b-4277-499a-8a82-6b7bcb5a1775)  
+
+![image](https://github.com/user-attachments/assets/90b356f3-5565-4352-b686-2fa6189e50f8)
+
+
 
 
