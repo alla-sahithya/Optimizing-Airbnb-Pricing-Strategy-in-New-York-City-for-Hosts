@@ -71,3 +71,5 @@ in NYC, demand for room types according to their prices.
 • You can also follow the on-screen instructions for predicting prices and exploring neighbourhood prices.
 
 # User Interface:  
+# Home Page and Drop down options:  
+![image](https://github.com/user-attachments/assets/bd6a522f-b8af-4bbd-b995-b5dbf4606d87)
