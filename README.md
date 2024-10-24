@@ -72,4 +72,14 @@ in NYC, demand for room types according to their prices.
 
 # User Interface:  
 # Home Page and Drop down options:  
-![image](https://github.com/user-attachments/assets/bd6a522f-b8af-4bbd-b995-b5dbf4606d87)
+![image](https://github.com/user-attachments/assets/bd6a522f-b8af-4bbd-b995-b5dbf4606d87)  
+
+![image](https://github.com/user-attachments/assets/a2359d19-9a94-4552-b45d-0c5edcf51e0d)  
+
+# Predict Price Page:  
+
+![image](https://github.com/user-attachments/assets/cfaee543-a7d5-4f08-9ef7-ee61361259bf)  
+
+![image](https://github.com/user-attachments/assets/490b1190-1eb4-406c-b3dc-f124cba395f1)
+
+
