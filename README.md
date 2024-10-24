@@ -105,10 +105,15 @@ in NYC, demand for room types according to their prices.
 • Also, we can implement algorithms that adapt to the real-time market fluctuations, seasonal trends, and special events which will empower hosts to optimize their pricing strategies. Adjusting prices based on demand and supply dynamics will help the hosts to maximize their revenue potential while staying competitive in the market.  
 • Future scope can also be leveraging geospatial data which can provide valuable insights into the influence of location on Airbnb prices.  
 
-References:  
+# References:  
 1. [https://docs.streamlit.io/](https://docs.streamlit.io/)
 2. [https://matplotlib.org/stable/gallery/index.html](https://matplotlib.org/stable/gallery/index.html)
 3. [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+4. [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+5. [https://matplotlib.org/stable/](https://matplotlib.org/stable/)
+6. [https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article](https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article)
+7. [https://www.datacamp.com/tutorial/xgboost-in-python](https://www.datacamp.com/tutorial/xgboost-in-python)
+8. [https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regressionmodel-418ca481755](https://towardsdatascience.com/what-are-the-best-metrics-to-evaluate-your-regressionmodel-418ca481755)
 
 
 
