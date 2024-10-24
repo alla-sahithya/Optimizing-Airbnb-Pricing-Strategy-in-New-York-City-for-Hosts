@@ -27,6 +27,8 @@ Optimizing Airbnb pricing in NYC is significant for several reasons –
 # 1.4 Minimum Nights vs Price:  
 ![image](https://github.com/user-attachments/assets/7b1e1abc-72f1-4a9b-880f-bf9ce55efb9d)  
 
+More Detailed Analysis - [Phase 1](https://github.com/alla-sahithya/Optimizing-Airbnb-Pricing-Strategy-in-New-York-City-for-Hosts/blob/main/phase%201/alla16_marziyek_report_phase_1.pdf)
+
 # Machine Learning Algorithms used:  
 1. Linear Regression
 2. Naive Bayes Classifier
@@ -43,7 +45,9 @@ We experimented with various machine learning algorithms and we chose XGBoost mo
 
 
 While XGBoost demonstrates good performance, the potential for even better results exists with a more robust dataset. Given that regression tasks performance evaluation cannot be relied on accuracy metric, our focus primarily lied on improving the Root Mean Squared Error (RMSE) and R^2 values. This improvement can be achieved by augmenting the dataset significantly and incorporating business insights to better understand the factors impacting prices. For better performance, we have also tried to preprocess data in various ways to see if it will perform better, changed the features that we considered for training but the results did not seem to change much and got even worse in few cases. The correlation matrix for the current dataset reveals weak correlations between the features and the target variable (as illustrated below), indicating potential issues with the existing dataset.  
-![image](https://github.com/user-attachments/assets/10172f15-2e2f-4348-b01d-37c7c4dc4a20)
+![image](https://github.com/user-attachments/assets/10172f15-2e2f-4348-b01d-37c7c4dc4a20)  
+
+More Detailed Analysis - [Phase 2](https://github.com/alla-sahithya/Optimizing-Airbnb-Pricing-Strategy-in-New-York-City-for-Hosts/blob/main/phase%202/alla16_marizyek_phase2_report.pdf)
 
 # Deployment:  
 We have created a Streamlit web application with different pages for home, predicting prices, neighbourhood prices, and visualizations. We also used session state to store input features and predicted prices.  
