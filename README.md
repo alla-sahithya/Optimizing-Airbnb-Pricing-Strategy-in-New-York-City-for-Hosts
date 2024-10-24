@@ -5,4 +5,4 @@ Our analysis delves into the NYC Airbnb dataset, aiming to uncover underlying pa
 this dataset.  
 
 # Dataset:
-We used ABC_NYC_2019 dataset which is available on [Kaggle] (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+We used ABC_NYC_2019 dataset which is available on [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
